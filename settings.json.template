@@ -1411,12 +1411,12 @@
   "labels": {
     // A collection of settings that pertain to the EJ6yc47cAZMGWHFccc9gfGbDLYuyNhP6wL wallet address
     // NOTE: Change this value to the wallet address that you would like to set a custom label on
-    "EJ6yc47cAZMGWHFccc9gfGbDLYuyNhP6wL": {
+    "n3VHMJ6zHFGRduFToRE9FTa5t5xB1RB6Gv": {
       // enabled: Enable/disable this particular wallet address label (true/false)
       //          If set to false, the label will be completely hidden
-      "enabled": false,
+      "enabled": true,
       // label: The text to display in the custom label
-      "label": "Development Budget",
+      "label": "Ecosystem Budget",
       // type: The bootstrap CSS class suffix for the label. This will change the background color of the label.
       //       Valid options: primary, secondary, success, danger, warning, info, light, dark
       //       NOTE: Leave the value blank ( "" ) to use default colors
@@ -1427,16 +1427,16 @@
     },
     // A collection of settings that pertain to the EXorBurnAddressXXXXXXXXXXXXXW7cDZQ wallet address
     // NOTE: Change this value to the wallet address that you would like to set a custom label on
-    "EXorBurnAddressXXXXXXXXXXXXXW7cDZQ": {
+    "mzyewKRoWUwNCEo1QktB8MoKAzY2LUQH1w": {
       // enabled: Enable/disable this particular wallet address label (true/false)
       //          If set to false, the label will be completely hidden
-      "enabled": false,
+      "enabled": true,
       // label: The text to display in the custom label
-      "label": "Burn Address",
+      "label": "Development Budget",
       // type: The bootstrap CSS class suffix for the label. This will change the background color of the label.
       //       Valid options: primary, secondary, success, danger, warning, info, light, dark
       //       NOTE: Leave the value blank ( "" ) to use default colors
-      "type": "danger",
+      "type": "success",
       // url: The url the label should navigate to when clicked. Ex: http://example.com
       //      NOTE: Leave the value blank ( "" ) to prevent hyperlinking the label
       "url": ""
